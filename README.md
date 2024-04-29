@@ -4,4 +4,4 @@
 
 ## UI output
 
-![view](./src/assets/voting.png)
+![view](./public/images/voting.png)
